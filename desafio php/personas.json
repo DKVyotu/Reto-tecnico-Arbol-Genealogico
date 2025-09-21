@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "idPadre": null
+    },
+    {
+        "id": 2,
+        "nombre": "Carlos Pérez",
+        "idPadre": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Miguel Pérez",
+        "idPadre": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Luis Pérez",
+        "idPadre": 2
+    },
+    {
+        "id": 1,
+        "nombre": "a",
+        "idPadre": null
+    }
+]
