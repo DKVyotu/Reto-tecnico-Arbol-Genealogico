@@ -16,6 +16,33 @@ while ($staus) {
         case 2:
             echo "Funcionalidad en desarrollo...\n";
             break;
+        case 3:
+            echo "Funcionalidad en desarrollo...\n";
+            break;
+        case 4:
+            echo "Funcionalidad en desarrollo...\n";
+            break;
+        case 5:
+            echo "Funcionalidad en desarrollo...\n";
+            break;
+        case 6:
+            echo "Funcionalidad en desarrollo...\n";
+            break;
+        case 7:
+            echo "Funcionalidad en desarrollo...\n";
+            break;
+        case 8:
+            echo "Funcionalidad en desarrollo...\n";
+            break;
+        case 9:
+            echo "Funcionalidad en desarrollo...\n";
+            break;
+        case 10:
+            echo "Funcionalidad en desarrollo...\n";
+            break;
+        case 11:
+            echo "Funcionalidad en desarrollo...\n";
+            break; 
         case 12:  
             mostrarPersonas(); 
             break;
